@@ -9,5 +9,5 @@ Files where added in the Java Build Path
 
 Note from Sahil I've tried to implement some JUnit testing
 In this challenge But I have never done any JUnit testing before
-and didn't have the time to write up individual tests for all
-all the methods I wanted to test
+and didn't have the time to quickly learn and write up 
+individual tests for all the methods I wanted to testfor this challenge
